@@ -1,0 +1,131 @@
+.list{
+    display: flex;
+    list-style: none;
+    margin-right: 50px;
+    margin-top: 20px;
+    
+    
+}
+.navbar44{
+    background-color: palevioletred;
+    height: 100px;
+}
+.list>li{
+    margin-right: 80px;
+    color: black;
+    font-weight: 700;
+    
+}
+.list>li:hover{
+    background: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: palevioletred;
+    transition: 2s;
+    padding: 10px;
+
+}
+.img1{
+margin-left: 20px;
+margin-bottom: 40px;
+}
+.navbtn{
+    margin-left: 10px;
+}
+.offcanva1{
+    display: none;
+    visibility: hidden;
+}
+@media only screen and (max-width:974px){
+    .list{
+        display: none;
+    }
+    .offcanva1{
+        visibility: visible;
+        margin-right: 40px;
+    }
+}
+.sec2{
+    padding: 40px;
+    text-align: center;
+}
+.sec3{
+    background-image:url(Download\ premium\ image\ of\ White\ network\ pattern\ on\ a\ taffy\ pink\ backgorund\ by\ katie\ about\ backgrounds\,\ design\ background\,\ background\ abstract\,\ pattern\,\ and\ gradient\ backgrounds\ 2344830.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.sec2>h1{
+    font-weight: 700;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.sec2>p{
+    font-size: 20px;
+    
+}
+.btn66{margin: 10px;    
+}
+.sec8{
+    display: flex;
+    text-align: center;
+    background-color: white;
+    border: 2px solid palevioletred;
+    padding: 30px;
+    position: relative;
+    bottom: 80px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 30px;
+    box-shadow: 3px 3px 5px palevioletred;
+}
+
+@media only screen and (max-width:677px){
+    .sec8{
+        display: inline-block;
+    }
+}
+.sec9{
+    color: palevioletred;
+    text-align: center;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    padding-bottom: 40px;
+}
+.sec10{
+    color: palevioletred;
+    box-shadow: 6px 6px 10px palevioletred;
+ 
+}
+.sec11{
+    color: palevioletred;
+    text-align: center;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    padding: 40px;
+    padding-top: 70px;
+}
+.last{
+    background-color: palevioletred;
+}
+.lst1{
+    padding: 80px;
+    padding-top: 60px;
+}
+.lst2{
+    padding: 30px; 
+    margin-left: 40px;
+}
+.lst3{
+    padding: 30px; 
+    margin-left: 40px;
+}
+.lst4{
+    padding: 30px; 
+    margin-left: 40px;
+    
+}
